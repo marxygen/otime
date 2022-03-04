@@ -1,6 +1,0 @@
-O_CONST = 'O(1)'
-O_LINEAR = 'O(n)'
-O_QUADRATIC = 'O(n^2)'
-O_CUBIC = 'O(n^3)'
-O_LOGARITHMIC = 'O(log n)'
-O_LINEARITHMIC = 'O(n log n)'
